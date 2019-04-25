@@ -26,6 +26,8 @@
 
 <br/>
 
+
+
 ### 1 **Executive Summary**   
 
 ### 1.1 **Objective** 
@@ -48,11 +50,13 @@ This project has been developed in accordance of MCS-205 Ecommerce course guidel
 
   Our aim is to help drop this number marginally in the coming years, which can be achieved by providing high quality eyewear to millions of Indians at affordable prices and by extending our services to the remote corners of India. To be Earth’s most customer-centric company, where customers can find and discover wide ranges of eyeglasses and sunglasses they might want to buy online.
 
-### <br/>1.3 **Products and services** 
+
+
+### 1.3 **Products and services** 
 
 ------
 
-##### **VARIETY**
+**VARIETY**
 
 
   - *We let the numbers talk*
@@ -71,8 +75,7 @@ This project has been developed in accordance of MCS-205 Ecommerce course guidel
 
   We have it all. Everyday basics. Everyday fashion. Evening wear. Not just that, we update our styles every year to keep up with fashion trends around the globe, taking inspiration from fashion capitals and the best designers of the world.
 
-
-##### **VALUE FOR MONEY**
+**VALUE FOR MONEY**
 
   - *Not all good things in the world are expensive*
 
@@ -86,8 +89,7 @@ This project has been developed in accordance of MCS-205 Ecommerce course guidel
 
   We have a wide variety of prices to suit all the customers.
 
-
-##### **14 DAY REFUND**
+**14 DAY REFUND**
 
 All our product, including prescription lenses come with a 'no question ask' 14 days return policy.
 
