@@ -40,10 +40,17 @@ Our aim is to help drop this number marginally in the coming years, which can be
 
 ------
 
+<<<<<<< d843f1513499bc64eb338fa521de9062e997db64
 ##### **VARIETY**
 
 
 - **We let the numbers talk.**
+=======
+#### **VARIETY**
+
+
+- *We let the numbers talk*
+>>>>>>> README
 
 We have over 5000 styles of eyewear, which is 5 times more than that any retailer in India. From big brands like RayBan and Montana to the best in house brands.
 
@@ -51,35 +58,43 @@ We have over 5000 styles of eyewear, which is 5 times more than that any retaile
 
 From sunglasses to reading glasses to contact lenses, we make everything that can help you see this beautiful world with more clarity.
 
-- **We got the whole world**
+- *We got the whole world*
 
 Yes it is true make eyewear for men, women, kids, for all humans of the world.
 
-- **All covered**
+- *All covered*
 
 We have it all. everyday basics. Everyday fashion. Evening wear. Not just that, we update our styles every year to keep up with fashion trends around the globe, taking inspiration from fashion capitals and the best designers of the world.
 
 
 ##### **VALUE FOR MONEY**
 
-- **Not all good things in the world are expensive**
+- *Not all good things in the world are expensive*
 
 Our prices are lower than any of your local optician. Our customers can find the most attractive packages on contact lenses.
 
-- **No middle man. No extra cost.**
+- *No middle man. No extra cost.*
 
 No middleman simply means no middle ground. Our products come straight from the manufacturer, hence getting rid of all extra costs and burden.
 
-- **One for everyone**
+- *One for everyone*
 
 We have a wide variety of prices to suit all the customers.
 
 
+<<<<<<< d843f1513499bc64eb338fa521de9062e997db64
 ##### **14 day refund**
 
 All our product, including prescription lenses come with a 'no question ask' 14 days return policy.
 
 ##### **1 year warranty**
+=======
+#### **14 DAY REFUND**
+
+All our product, including prescription lenses come with a 'no question ask' 14 days return policy.
+
+#### **1 YEAR WARRANTY**
+>>>>>>> README
 
 All our products come with 1 year warranty.
 
