@@ -80,7 +80,7 @@ To build an ecommerce website for eyewear similar to [Lenskart](lenskart.com) ba
 ### 2.1 **Business model** 
 
 ------
-
+Our business model is eCommerce. E-Commerce business model is an upgradation of the traditional brick-and-mortar business model. It focuses on selling products by creating a web-store on the internet. Although [Lenskart](lenskart.com) is **Bricks and clicks** model, we are unable to provide physical presence to our stores so we have to stick with eCommmerce model. 
 
 
 
@@ -96,7 +96,7 @@ To build an ecommerce website for eyewear similar to [Lenskart](lenskart.com) ba
 ### 2.1.1 **Competitive landscape**
 
 ------
-
+Our website provides different sorts of eyewear products which has quite a number of competetive companies like [Coolwinks](coolwinks.com) , [LiveOptical](liveoptical.com) and [Lenskart](lenskart.com) obviously is another one. All of these companies have strong online presence and a great advertisement team working 24/7 to reach a greater customer base. However, all such sites have one thing in common i.e. unclearity and non-transperancy of products on their respective website. These sites contain so many products and different categories that for a simple user it becomes chaotic to find the best product. To lure customers some sites like [Lenskart](lenskart.com) claim to have 3D online tryon but in reality these functions are terrible and do not work properly. On top of this there is also higher price range for customers. Offline reltailers do a better job than such sites in providing perfect  products to customers in a suitable price range.    
 
 
 
