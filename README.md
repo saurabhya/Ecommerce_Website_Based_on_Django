@@ -19,12 +19,6 @@ This project has been developed in accordance of MCS-205 Ecommerce course guidel
 
 ------
 
-<<<<<<< 763d1e9d0550d0fd0ffdb426b0117347ccd8c42e
-**Mission** : We strive to offer our customers the lowest possible prices, the best available selection, and the utmost convenience.
-
-**Vision** : To be Earth’s most customer-centric company, where customers can find and discover wide ranges of eyeglasses and sunglasses they might want to buy online.
-
-=======
 **Mission**
 
 Wow customers by doing something that has never been done before in the eyewear industry. Our aim is to provide every Indian access to high-quality designer glasses without shelling out their pocket. We rocked our brains. We broke our backs to come up with a plan that will not just change the way this industry works, but also will completely sweep customer off their feet. It can only be achieved if we provide.
@@ -32,7 +26,6 @@ Wow customers by doing something that has never been done before in the eyewear 
 **Vision**
 
 Our aim is to help drop this number marginally in the coming years, which can be achieved by providing high quality eyewear to millions of Indians at affordable prices and by extending our services to the remote corners of India. To be Earth’s most customer-centric company, where customers can find and discover wide ranges of eyeglasses and sunglasses they might want to buy online.
->>>>>>> README
 
 <br/>
 
@@ -40,21 +33,14 @@ Our aim is to help drop this number marginally in the coming years, which can be
 
 ------
 
-<<<<<<< d843f1513499bc64eb338fa521de9062e997db64
 ##### **VARIETY**
 
 
-- **We let the numbers talk.**
-=======
-#### **VARIETY**
-
-
 - *We let the numbers talk*
->>>>>>> README
 
 We have over 5000 styles of eyewear, which is 5 times more than that any retailer in India. From big brands like RayBan and Montana to the best in house brands.
 
-- **An eye for an eye**
+- *An eye for an eye*
 
 From sunglasses to reading glasses to contact lenses, we make everything that can help you see this beautiful world with more clarity.
 
@@ -82,19 +68,11 @@ No middleman simply means no middle ground. Our products come straight from the 
 We have a wide variety of prices to suit all the customers.
 
 
-<<<<<<< d843f1513499bc64eb338fa521de9062e997db64
-##### **14 day refund**
-
-All our product, including prescription lenses come with a 'no question ask' 14 days return policy.
-
-##### **1 year warranty**
-=======
 #### **14 DAY REFUND**
 
 All our product, including prescription lenses come with a 'no question ask' 14 days return policy.
 
 #### **1 YEAR WARRANTY**
->>>>>>> README
 
 All our products come with 1 year warranty.
 
