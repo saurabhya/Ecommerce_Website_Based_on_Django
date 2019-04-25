@@ -32,7 +32,7 @@ This project has been developed in accordance of MCS-205 Ecommerce course guidel
 ### 1.3 **Products and services** 
 ------
   
-##### **VARIETY**
+#### **VARIETY**
   
   
   - *We let the numbers talk*
@@ -49,10 +49,10 @@ This project has been developed in accordance of MCS-205 Ecommerce course guidel
 
   - *All covered*
   
-  We have it all. everyday basics. Everyday fashion. Evening wear. Not just that, we update our styles every year to keep up with fashion trends around the globe, taking inspiration from fashion capitals and the best designers of the world.
+  We have it all. Everyday basics. Everyday fashion. Evening wear. Not just that, we update our styles every year to keep up with fashion trends around the globe, taking inspiration from fashion capitals and the best designers of the world.
 
 
-##### **VALUE FOR MONEY**
+#### **VALUE FOR MONEY**
 
   - *Not all good things in the world are expensive*
   
@@ -208,6 +208,7 @@ We have three different web apps currently working right now. They are :-
 
 We have used Django cache session. Although we could have used client side cookies to store various data useful for our web app, but this leads to lot of security holes, making our web app more prone to web attacks. Thus for security reasons, we have used session framework of Django for cookies handling. Sessions are used to abstract the receiving and sending of cookies, data is saved on server side (like in database), and the client side cookie just has a session ID for identification. Sessions are also useful to avoid cases where the user browser is set to ‘not accept’ cookies. And caching these sessions help in reducing load to database which occurs if the user doesn't specifically log out, the database session row is never deleted.
 
+We have also used Django context processors. By default, Django templates are enabled to have access to various variables. This eliminates the need to constantly declare widely used variables in every single Django view methods or as url extra options. These variables are made available through template context processors and are used for debugging, handling request, authentication logic etc. Django CSRF (Cross Site Request Forgeries) context processor is implicit and cannot be changed. CSRF context processor adds the csrf_token variable to all requests. This variable is used by the {% csrf_token %} template tag to protect against Cross Site Request Forgeries.
 
 Since due to time-contraint and mongoDB was too complex for us to implement, we have used SQLite for maintaining databases.
 
