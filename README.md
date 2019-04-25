@@ -46,6 +46,9 @@ This project has been developed in accordance of MCS-205 Ecommerce course guidel
 
 ------
 
+The global eyewear market size was valued at USD 102.66 billion in 2015. The increasing dependence on electronic gadgets such as mobile phones, television, and computers has led to eyesight problems resulting in the purchase of more eyewear products. The rise in the number of optical deficiencies and growth in the elderly population is expected to augment the eyewear market growth. The increasing occurrence of myopia has led to an increased demand for the prescription-based eyeglasses. Changes in lifestyle and technological advancements have led to prolonged exposure to electronic devices that have caused strain on eyes. The need among the individuals to protect their eyes is expected to drive the eyewear demand globally.
+The rise in disposable income has resulted in the increased purchase of eyeglasses, especially spectacle frames and sunglasses, which are perceived as a fashion accessory. Consumers are likely to buy a new set of eyeglasses or replace the old ones. Furthermore, the growing preferences of luxury and branded sunglasses are contributing significantly to the eyewear demand. Consumers are exhibiting preferences towards the premium product segment and are willing to spend more on these products. Vendors have introduced innovative eyewear products to cater to various needs of the customers.
+
 
 
 
@@ -165,7 +168,8 @@ The most important credential to authenticate and recognize a user is the passwo
 ### 3.2 **Marketing strategy**
 
 ------
-
+For most consumers, sunglasses do more than simply make it easier to see in bright light. They stand for something more, whether it’s a sense of style, a commitment to health and safety, or the special duties customers perform that require eyewear to match. These customer needs can be valuable tools when deciding how to market your sunglasses. Many of us are taught at a young age to look people in the eyes. That learned behavior makes sunglasses the first accessory many people notice. Style, therefore, is a critical facet of sunglasses to emphasize in marketing. We should Make sure our advertising materials reflect people who epitomize the aspirations of our target market. If our customers think oour sunglasses look cool and hip in your marketing materials, they'll be more inclined to picture how they would look wearing the same shades.
+Some sunglasses companies have found success by narrowly targeting their offerings to a specific audience. Marketing sunglasses to military pilots, for example, we can be successful if we can meet their unique requirements in a way that others can’t. Stocking sunglasses specifically for outdoor sports enthusiasts or motorcyclists can also be lucrative, especially if we do much of our marketing over the Internet and social media. If a group thinks your sunglasses will work especially well for their needs, that sets us apart from the competition.
 
 
 
