@@ -3,11 +3,7 @@
 
 
 
-### 1 **Executive Summary**
-
-------
-
-This project has been developed in accordance of MCS-205 Ecommerce course guideline. In this project we have tried to analyze a pre existing ecommerce website [Lenskart](lenskart.com) and tried to build a similar ecommerce website. [Lenskart](lenskart.com) is an ecommerce website that primarily sells eyewear, we analyzed the site and figured different shortcomings that could be improved. We have build our similar website to sell eyewear products based on **Django** and have tried to make it efficient than [Lenskart](lenskart.com) .    
+### 1 **Executive Summary**   
 
 ### 1.1 **Objective** 
 ------
@@ -16,6 +12,7 @@ This project has been developed in accordance of MCS-205 Ecommerce course guidel
 
 To build an ecommerce website for eyewear similar to [Lenskart](lenskart.com) based on Django web framework.
 
+This project has been developed in accordance of MCS-205 Ecommerce course guideline. In this project we have tried to analyze a pre existing ecommerce website [Lenskart](lenskart.com) and tried to build a similar ecommerce website. [Lenskart](lenskart.com) is an ecommerce website that primarily sells eyewear, we analyzed the site and figured different shortcomings that could be improved. We have build our similar website to sell eyewear products based on **Django** and have tried to make it efficient than [Lenskart](lenskart.com) .
 
 
 
@@ -65,18 +62,6 @@ To build an ecommerce website for eyewear similar to [Lenskart](lenskart.com) ba
 
 ### 2 **Products and services**
 
-------
-
-
-
-
-
-
-
-
-
-
-
 ### 2.1 **Business model** 
 
 ------
@@ -115,7 +100,7 @@ Our website provides different sorts of eyewear products which has quite a numbe
 
 ------
 
-
+Our revenue model is Direct Sales Model. The direct sales model is the most commonly used revenue earning model adopted by the e-commerce companies. It involves setting up a store in an online marketplace or a self-owned website and shipping the goods as and when the money is paid by the customer. However, Online payment is not available at the moment but it will soon be facilitated.
 
 
 
@@ -131,27 +116,7 @@ Our website provides different sorts of eyewear products which has quite a numbe
 
 ### 3 **Strategy and implementation summary**
 
-------
-
-
-
-
-
-
-
-
-
 ### 3.1 **SWOT analysis**
-
-------
-
-
-
-
-
-
-
-
 
 ### 3.1.1 **Strengths**
 
@@ -186,7 +151,11 @@ Our website provides different sorts of eyewear products which has quite a numbe
 ### 3.1.4 **Threats**
 
 ------
-
+Security is vital but variable according to the functionality of the web application. Some companies might have a greater concern for multi-factor authentication than others. However, one cannot completely rule out attempted break-ins. Therefore, a good web security is always a must.
+Mass assignment is known to be a vulnerability when a web application’s ORM(object-relational mapping) interface is exploited to change the certain type of information in the database, which in any case shouldn’t be allowed to be changed by the user. These types of information include the session keys, cookie data, passwords, permissions, and admin access.
+Hijacking is to vehicles, as Clickjacking is to clicks. They are also known as “UI redress attacks”, where the attacker renders a concealed layer on your website, in the hope of deceiving the client into clicking on to it, may it be a button, or link, which redirects it to another page, owned by another application, domain, or both.
+Framekillers are the solution to the problem of ClickJacking. They are written in JavaScript with the intended functionality of checking if the current window is the main window.
+The most important credential to authenticate and recognize a user is the password, which is why we need robust ways to store it in an encrypted way.
 
 
 
