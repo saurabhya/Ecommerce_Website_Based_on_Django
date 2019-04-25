@@ -22,10 +22,20 @@ This project has been developed in accordance of MCS-205 Ecommerce course guidel
 
 ------
 
+<<<<<<< 763d1e9d0550d0fd0ffdb426b0117347ccd8c42e
 **Mission** : We strive to offer our customers the lowest possible prices, the best available selection, and the utmost convenience.
 
 **Vision** : To be Earth’s most customer-centric company, where customers can find and discover wide ranges of eyeglasses and sunglasses they might want to buy online.
 
+=======
+**Mission**
+
+Wow customers by doing something that has never been done before in the eyewear industry. Our aim is to provide every Indian access to high-quality designer glasses without shelling out their pocket. We rocked our brains. We broke our backs to come up with a plan that will not just change the way this industry works, but also will completely sweep customer off their feet. It can only be achieved if we provide.
+
+**Vision**
+
+Our aim is to help drop this number marginally in the coming years, which can be achieved by providing high quality eyewear to millions of Indians at affordable prices and by extending our services to the remote corners of India. To be Earth’s most customer-centric company, where customers can find and discover wide ranges of eyeglasses and sunglasses they might want to buy online.
+>>>>>>> README
 
 
 ### 1.3 **Products and services** 
