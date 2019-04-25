@@ -181,6 +181,16 @@ Some sunglasses companies have found success by narrowly targeting their offerin
 
 ------
 
+- Work on customer satisfaction and retention
+- Listen to feedback and improve
+- Build relationships with clients
+- Keep them engaged with your brand post-purchase
+- Provide at least good customer experience if not exceptional
+- Stimulate repeat orders with tailored and relevant offers
+- Make your site mobile-friendly
+- Prioritize security
+- Personalize the experience
+
 
 <br/>
 
@@ -188,6 +198,8 @@ Some sunglasses companies have found success by narrowly targeting their offerin
 ### 3.4 **Technical** **Specifications**
 
 ------
+
+
 
 <br/>
 <br/>
