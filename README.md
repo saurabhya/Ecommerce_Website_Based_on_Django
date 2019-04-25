@@ -22,9 +22,9 @@ This project has been developed in accordance of MCS-205 Ecommerce course guidel
 
 ------
 
+**Mission** : We strive to offer our customers the lowest possible prices, the best available selection, and the utmost convenience.
 
-
-
+**Vision** : To be Earth’s most customer-centric company, where customers can find and discover wide ranges of eyeglasses and sunglasses they might want to buy online.
 
 
 
